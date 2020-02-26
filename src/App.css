@@ -1,0 +1,29 @@
+.students {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.students>div {
+  width: 25%;
+}
+
+img {
+  width: 25%;
+}
+
+.container {
+  border: solid 10px purple;
+}
+
+.students {
+  border: 5px solid blue;
+}
+
+.student {
+  border: 2px solid green;
+}
+
+.add {
+  border: 2px solid red;
+}
